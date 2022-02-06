@@ -1,3 +1,13 @@
+# Updated 2-6-2022 with the following improvements from the original:
+<ul>
+  <li>Added color picker element to allow picking of additional colors</li>
+  <li>Color picker also allows use of the built in eye dropper to choose colors from any visible element</li>
+  <li>Color picker element changes color to indicate current color in use</li>
+  <li>Fixed an issue that made the page crash if you exported a gif, then made changes and tried to export a gif again</li>
+  <li>Removed the Install PWA button because it was not working for me on any browser</li>
+ </ul>
+ 
+
 # PixelCraft
 A pixel Art & Animation Creation Tool Built using HTML5 Canvas.  
 It is a Progressive Web App (PWA) with offline compatibility.  
@@ -7,8 +17,7 @@ It is mobile-friendly and is very easy to use.
 
 ## Overview
 This App is Available at both these locations
-https://pixelcraft.web.app/
-https://rgab1508.github.io/PixelCraft
+**Forthcoming**
 
 On opening, you will get a screen as Follows
 
@@ -137,14 +146,6 @@ You can select any color by clicking on it.
 You can also set color Transparency to create translucent colors and create color combinations. This property can be used to create complex patterns with greater flexibility.
 
 ![Complex Pattern](https://user-images.githubusercontent.com/17960677/96028936-95ad6d00-0e77-11eb-8a8c-07caa0f2a8b5.jpg)
-
-## PWA Support
-
-This Web App is a Fully Compatible PWA and is installable.  
-
-![PWA Support](https://user-images.githubusercontent.com/17960677/96029402-3ef46300-0e78-11eb-8a54-d54b6dff458a.png)
-
-You can install it either from the Dropdown or using the "Add to Home Screen" Button From Options.  
 
 ## Some Pixel Arts Made with PixelCraft
 
